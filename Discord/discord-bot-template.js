@@ -33,4 +33,4 @@ if(command == "embedcmd"){
 }
 })
 
-client.login('OTUzNTA3NDg1MjYyNzA4NzM2.YjFlCw.-_4qxuopwmM2MpszSsx6dN-sQMQ')
+client.login(null)
